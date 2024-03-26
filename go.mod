@@ -1,4 +1,4 @@
-module yp-sdk-go
+module sdk-go
 
 go 1.14
 

@@ -15,6 +15,7 @@
 2. 在需要使用sdk的地方import
 
 ```golang
+import yp "github.com/husiqi/sdk-go"
 ```
 
 3. 配置密钥
